@@ -1,0 +1,7 @@
+# requirements.txt for use with uv
+# Add your dependencies below, one per line
+# Example:
+numpy
+pandas
+scikit-learn
+matplotlib
