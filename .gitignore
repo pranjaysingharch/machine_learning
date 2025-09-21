@@ -8,5 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-# Ignore large model files
-ML_learning/ML-HandsOn/my_california_housing_model.pkl
+
+# Ignore all pickle files
+*.pkl
